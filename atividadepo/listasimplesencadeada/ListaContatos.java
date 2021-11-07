@@ -16,29 +16,29 @@ public class ListaContatos {
 
     }
 
-//    public No getPrim() {
-//        return prim;
-//    }
-//
-//    public void setPrim(No prim) {
-//        this.prim = prim;
-//    }
-//
-//    public No getUlt() {
-//        return ult;
-//    }
-//
-//    public void setUlt(No ult) {
-//        this.ult = ult;
-//    }
-//
-//    public int getQuantino() {
-//        return qtd;
-//    }
-//
-//    public void setQuantino(int quantino) {
-//        this.qtd = quantino;
-//    }
+    public No getPrim() {
+        return prim;
+    }
+
+    public void setPrim(No prim) {
+        this.prim = prim;
+    }
+
+    public No getUlt() {
+        return ult;
+    }
+
+    public void setUlt(No ult) {
+        this.ult = ult;
+    }
+
+    public int getQuantino() {
+        return qtd;
+    }
+
+    public void setQuantino(int quantino) {
+        this.qtd = quantino;
+    }
 
     //=----------------------------------------------------------------------
     public void adiciona(Contato co) {
